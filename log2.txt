@@ -1,4 +1,0 @@
-INFO: Server started
-INFO: User logged in
-WARNING: Low memory
-ERROR: Network failure
