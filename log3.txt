@@ -1,0 +1,3 @@
+INFO: Login successful
+ERROR: Invalid password
+INFO: Data saved
